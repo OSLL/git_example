@@ -1,2 +1,2 @@
-New line in settings file
+New line in settings file, one more thing
 
